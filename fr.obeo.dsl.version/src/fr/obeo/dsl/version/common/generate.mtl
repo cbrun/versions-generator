@@ -42,7 +42,7 @@
 			[/for]            
           </div>
           <div class="span4">
-            <h3>Whats new in [product.current.id/] ?</h3>
+            <h3>What's new in [product.current.id/] ?</h3>
             <h5> New Features</h5>
             <ul>
 			[for (feat : Feature | product.features->select(isNew()))]
