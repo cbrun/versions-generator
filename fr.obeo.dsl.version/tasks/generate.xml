@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default="generate" name="fr.obeo.dsl.version">
     <property name="ECLIPSE_HOME" value="../../../../bin/obeodesigner/5.0/eclipse"/>
-    <property name="ECLIPSE_WORKSPACE" value="../.."/>
+    <property name="ECLIPSE_WORKSPACE" value="../../../../spaces/fluent"/>
 
     <!-- The classpath with only the dependencies used by the project -->
     <path id="fr.obeo.dsl.version.libraryclasspath">
